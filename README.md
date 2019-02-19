@@ -1,2 +1,0 @@
-# SeleniumPetClinic
-SeleniumPetClinic
